@@ -1,0 +1,5 @@
+year,occupation,major_category,minor_category,total_workers,workers_male,workers_female,percent_female,total_earnings,total_earnings_male,total_earnings_female,wage_percent_of_male,year2,total_full_time,total_part_time,full_time_female,part_time_female,full_time_male,part_time_male
+2013,Bus drivers,"Production, Transportation, and Material Moving",Transportation,275991,174830,101161,36.7,32725,37569,27180,72.34688174,2013,80.8,19.2,74,26,86.9,13.1
+2014,Bus drivers,"Production, Transportation, and Material Moving",Transportation,267775,161334,106441,39.8,32414,36535,27795,76.07773368,2014,81.1,18.9,74.2,25.8,87.3,12.7
+2015,Bus drivers,"Production, Transportation, and Material Moving",Transportation,288778,174214,114564,39.7,32398,38072,27095,71.2,2015,81.6,18.4,74.8,25.2,87.6,12.4
+2016,Bus drivers,"Production, Transportation, and Material Moving",Transportation,280228,178493,101735,36.30436644,35222,38539,29570,76.72747087,2016,81.7,18.3,75.1,24.9,87.6,12.4
